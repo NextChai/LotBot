@@ -1,0 +1,5 @@
+python-dotenv
+asyncpg
+jishaku
+git+https://github.com/Rapptz/discord.py/
+git+https://github.com/bryanforbes/asyncpg-stubs
