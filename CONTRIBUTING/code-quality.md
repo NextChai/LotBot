@@ -64,9 +64,18 @@ from utils.cog import BaseCog
 class Commands(BaseCog, brief="Hello!", emoji="\N{SMILING FACE WITH SMILING EYES}"):
 
     @app_commands.command(
-        name='hello',
-        description='This is a command that says hello world!'
+        name="hello",
+        description="This is a command that says hello world!"
     )
-    async def hello_world(self, interaction: Interaction) -> None:
-        return await interaction.response.send_message('Hello, world!')
+    async def hello_world(self, interaction: Interaction, name: str) -> None:
+        """|coro|
+        
+        A command to say hello world.
+        
+        Parameters
+        ----------
+        name: :class:`str`
+            The name to say hello with.
+        """
+        return await interaction.response.send_message(f"Hello, {name}!")
 ```
