@@ -12,8 +12,8 @@ It's expected of you to write code that is clean, well-commented, well-tested, w
 and accurately typehinted. We do have a minimum code quality you must meet to contribute. Failure to do so will
 result in your code being rejected. 
 
-1. [Code Style](CONTRIBUTING\code-style.md)
-2. [Code Quality](CONTRIBUTING\code-quality.md)
+1. [Code Style](code-style.md)
+2. [Code Quality](code-quality.md)
 
 ## Have fun!
 You need to remember, we're all here to learn and have fun. If you want to improve the quality of the code,
