@@ -14,7 +14,7 @@ and have code added into the bot.
 
 Contributing
 ------------
-Want to contribute? Great! Join the [discord](https://discord.gg/7HBjc8uDPj), as well as read 
+Want to contribute? Great! Join the `discord <https://discord.gg/7HBjc8uDPj>`_, as well as read 
 the [contributing guide](CONTRIBUTING/howto.md).
 
 # The Purpose
@@ -23,4 +23,4 @@ and have code added into the bot.
 
 discord.py
 ----------
-LotBot is running off of [Discord.py](https://github.com/Rapptz/discord.py) and is written in Python.
+LotBot is running off of `discord.py <https://github.com/Rapptz/discord.py>`_ and is written in Python.
