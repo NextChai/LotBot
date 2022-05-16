@@ -1,0 +1,4 @@
+[tool.black]
+line-length = 125
+target-version = ["py310",]
+force-exclude = "LICENSE|pyproject.toml|requirements.txt"
