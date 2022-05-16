@@ -36,7 +36,7 @@ __all__: Tuple[str, ...] = ("BaseCog",)
 
 
 class BaseCog(commands.Cog):
-    """The base class for all Scott cogs.
+    """The base class for all LotBot cogs.
 
     Attributes
     ----------
