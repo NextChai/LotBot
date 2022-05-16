@@ -1,0 +1,26 @@
+name: Adding Code
+description: Add code to LotBot and implement new features!
+labels: feature request
+body:
+  - type: input
+    attributes:
+      label: Summary
+      description: >
+        A short summary of what your code addon request is.
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      multiple: false
+      label: What is the code addon for?
+      options:
+        - The core bot itself
+        - Implementing new commands
+        - Fixing issues
+        - Updating documentation
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: If there is anything else to say, please do so here.
