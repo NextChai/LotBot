@@ -17,10 +17,6 @@ Contributing
 Want to contribute? Great! Join the `discord <https://discord.gg/7HBjc8uDPj>`_, as well as read 
 the [contributing guide](CONTRIBUTING/howto.md).
 
-# The Purpose
-LotBot's purpose is to be community driven Discord bot. Anyone that can write good code can PR
-and have code added into the bot.
-
 discord.py
 ----------
 LotBot is running off of `discord.py <https://github.com/Rapptz/discord.py>`_ and is written in Python.
