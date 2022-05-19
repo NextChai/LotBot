@@ -15,7 +15,7 @@ and have code added into the bot.
 Contributing
 ------------
 Want to contribute? Great! Join the `discord <https://discord.gg/7HBjc8uDPj>`_, as well as read 
-the [contributing guide](https://github.com/NextChai/LotBot/blob/main/CONTRIBUTING/howto.md).
+the `contributing guide <https://github.com/NextChai/LotBot/blob/main/CONTRIBUTING/howto.md>`_
 
 # The Purpose
 LotBot's purpose is to be community driven Discord bot. Anyone that can write good code can PR
